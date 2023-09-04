@@ -7,6 +7,6 @@ To install these presets copy the "Filters" folder into your "…\Retroarch\" fo
 
 Usage:
 
-Settings-->Video-->Video Filter--><choose video filter preset>.filt
+Settings-->Video-->Video Filter--><choose video filter preset>*.filt
 
 Quick Menu-->Overrides-->Save Core Override
